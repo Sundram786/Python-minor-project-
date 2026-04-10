@@ -1,1 +1,1 @@
-# Python-minor-project-
+This Python minor project demonstrates the use of basic programming concepts such as functions, loops, conditional statements, and file handling. The project is designed for educational purposes and showcases problem-solving using Python.
